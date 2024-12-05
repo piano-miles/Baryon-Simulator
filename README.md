@@ -1,7 +1,8 @@
 # Baryon-Simulator
 
-A Baryon Simulator I created Jun 29, 2021.
+A toy simulation sandbox for playing with particles with attractive and repulsive forces.
+Created Jun 29, 2021.
 
-Run it [here](https://piano-miles.github.io/Baryon-Simulator/).
+Run it [here](https://git.mileswaugh.com/Baryon-Simulator/).
 
 Built with Turbowarp Packager. Made using pen.
